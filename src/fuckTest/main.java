@@ -1,7 +1,7 @@
 package fuckTest;
 
 public class main {
-	void test(){
-		System.out.print("");
+	public static void main(String[] stra){
+		System.out.print("fuck world");
 	}
 }
